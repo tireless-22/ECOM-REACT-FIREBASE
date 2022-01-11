@@ -27,11 +27,11 @@ function Header() {
           <span className="header_option_lineTwo">Sign In</span>
         </div>
         <div className="header_option">
-          <span className="header_option1_lineOne">Returns</span>
+          <span className="header_option_lineOne">Returns</span>
           <span className="header_option_lineTwo">& Orders</span>
         </div>
         <div className="header_option">
-          <span className="header_option1_lineOne">Your</span>
+          <span className="header_option_lineOne">Your</span>
           <span className="header_option_lineTwo">Prime</span>
         </div>
       </div>

@@ -54,6 +54,15 @@
 }
 
 
+.header_option_lineOne{
+	font-size: 11px;
+}
+
+.header_option_lineTwo{
+	font-size: 15px;
+	font-weight: 700;
+}
+
 @media only screen and (max-width: 1024px) {
 .header__searchInput{
 	width:50vw;

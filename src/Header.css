@@ -62,6 +62,18 @@
 	font-size: 15px;
 	font-weight: 700;
 }
+/* 
+.cart_number p{ 
+	color: white;
+} */
+
+.cart_number{
+	color:white;
+}
+
+.cart{
+	display: flex;
+}
 
 @media only screen and (max-width: 1024px) {
 .header__searchInput{
